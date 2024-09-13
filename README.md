@@ -6,7 +6,7 @@ Coal DEX is a fully featured decentralized exchange (DEX) built on the Fuel Netw
 - **Token Module**: An ERC-20 like token contract for minting and transferring tokens.
 - **Liquidity Pool Module**: Manages liquidity pools, allowing users to add and remove liquidity.
 - **Swap Module**: Enables users to swap between different tokens using the liquidity pools.
-- **DAO (Decentralized Autonomous Organization)**: Users can vote on governance proposals using their tokens.
+- **COAL (Decentralized Autonomous Organization)**: Users can vote on governance proposals using their tokens.
 - **Staking Module**: Users can stake tokens to earn rewards.
 - **Multisig Wallet**: A wallet requiring multiple signatures to execute transactions, adding an extra layer of security.
 
